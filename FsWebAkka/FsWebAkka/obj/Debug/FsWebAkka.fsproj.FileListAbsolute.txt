@@ -1,0 +1,107 @@
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FsWebAkka.dll.config
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FsWebAkka.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FsWebAkka.pdb
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\Akka.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\Akka.FSharp.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\Antlr3.Runtime.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FSharp.Core.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FSharp.PowerPack.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FSharp.PowerPack.Linq.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FsPickler.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\Microsoft.Web.Infrastructure.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\Newtonsoft.Json.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Net.Http.Formatting.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.Helpers.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.Http.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.Http.WebHost.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.Mvc.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.Optimization.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.Razor.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.WebPages.Deployment.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.WebPages.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.WebPages.Razor.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\WebGrease.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\Akka.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\Akka.FSharp.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\Antlr3.Runtime.pdb
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FSharp.PowerPack.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FSharp.PowerPack.Linq.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FsPickler.pdb
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FsPickler.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\Newtonsoft.Json.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Net.Http.Formatting.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.Helpers.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.Http.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.Http.WebHost.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.Mvc.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.Optimization.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.Razor.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.WebPages.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.WebPages.Deployment.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Web.WebPages.Razor.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FSharp.Core.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\obj\Debug\FsWebAkka.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\obj\Debug\FsWebAkka.pdb
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\FSharp.Reactive.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Reactive.Core.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Reactive.Interfaces.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Reactive.Linq.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Reactive.PlatformServices.dll
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Reactive.Core.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Reactive.Interfaces.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Reactive.Linq.xml
+c:\users\riccardo\documents\visual studio 2015\Projects\FsWebAkka\FsWebAkka\bin\System.Reactive.PlatformServices.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FsWebAkka.dll.config
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FsWebAkka.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FsWebAkka.pdb
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\Akka.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\Akka.FSharp.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\Antlr3.Runtime.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FSharp.Core.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FSharp.PowerPack.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FSharp.PowerPack.Linq.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FSharp.Reactive.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FsPickler.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\Newtonsoft.Json.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Net.Http.Formatting.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Reactive.Core.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Reactive.Interfaces.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Reactive.Linq.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Reactive.PlatformServices.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.Helpers.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.Http.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.Http.WebHost.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.Mvc.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.Optimization.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.Razor.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.WebPages.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.WebPages.Razor.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\WebGrease.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\Akka.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\Akka.FSharp.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\Antlr3.Runtime.pdb
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FSharp.PowerPack.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FSharp.PowerPack.Linq.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FsPickler.pdb
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FsPickler.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\Newtonsoft.Json.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Net.Http.Formatting.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Reactive.Core.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Reactive.Interfaces.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Reactive.Linq.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Reactive.PlatformServices.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.Helpers.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.Http.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.Http.WebHost.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.Mvc.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.Optimization.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.Razor.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.WebPages.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\System.Web.WebPages.Razor.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\bin\FSharp.Core.xml
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\obj\Debug\FsWebAkka.fsprojResolveAssemblyReference.cache
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\obj\Debug\FsWebAkka.dll
+C:\Users\Riccardo\Documents\visual studio 2015\Projects\FsWebAkka - Copy\FsWebAkka\obj\Debug\FsWebAkka.pdb
